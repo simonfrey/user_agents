@@ -1,3 +1,3 @@
-module user_agents
+module "user_agents"
 
 go 1.12
